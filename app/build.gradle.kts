@@ -101,4 +101,6 @@ dependencies {
     annotationProcessor (libs.compiler)
     implementation (libs.gson)
     implementation(libs.kotlinx.serialization.json)
+    implementation ("androidx.compose.material:material:1.3.1")
+    implementation ("com.airbnb.android:lottie-compose:6.5.2")
 }

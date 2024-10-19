@@ -40,4 +40,8 @@
         <item>EfficientDet Lite0</item>
         <item>EfficientDet Lite2</item>
     </string-array>
+
+    <string name="permission_required_title">Permission required</string>
+    <string name="permission_required_message">Allow permission for storage access</string>
+    <string name="permission_required_button">Allow</string>
 </resources>
